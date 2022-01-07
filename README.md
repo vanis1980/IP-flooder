@@ -53,9 +53,4 @@ You will see a neat GUI with options on the left.
 You will be able to choose from any of these options
 
 ## Contact
-
-Discord: https://discord.gg/SJyU6VkHen
-
-## Donate
-
-Bitcoin: 1JKtC7rQNo23iA9p35XaovetKvs5RDF1S
+vanis#7713
